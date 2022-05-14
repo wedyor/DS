@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "217177603899",
+    "project_id": "dsandroid-1deb6",
+    "storage_bucket": "dsandroid-1deb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217177603899:android:fb4ffb98f6f592f406811e",
+        "android_client_info": {
+          "package_name": "com.example.ds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217177603899-pns8atatvb6217mkal12e3hvmf76oj37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlwagMCPZ4jCW4k1Dw6d2XNy3HZnyAs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217177603899-pns8atatvb6217mkal12e3hvmf76oj37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
